@@ -15,4 +15,4 @@ Dieses Projekt enthält eine einfache JavaScript-Kalkulatorfunktion (`add`), die
 Um das Projekt lokal auf deinem Computer zu verwenden, klone das Repository mit dem folgenden Befehl:
 
 ```bash
-git clone https://github.com/DEIN_USERNAME/calculator-actions.git
+git clone https://github.com/jihenmich/calculator-actions.git
